@@ -15,5 +15,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: "/prime-crest-construction-limited",
+  base: "/prime-crest-construction-limited/",
 }));
